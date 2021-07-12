@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZmTdGNAXMTnYSK1MlY9DOipwJQnoEfj+djrVssYKka93wSGRJxtoVgRJj2s4qSSx0PdORqX6un+565sVKvTbg==",
+  "success": true,
+  "projectFilePath": "c:\\Dev\\c#\\raylibGameOfLife\\raylibGameOfLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamk\\.nuget\\packages\\raylib-cs\\3.7.0\\raylib-cs.3.7.0.nupkg.sha512",
+    "C:\\Users\\liamk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
